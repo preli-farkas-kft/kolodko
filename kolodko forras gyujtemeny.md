@@ -19,5 +19,22 @@ Kultúra.hu – Kolodko Mihály: Valami egészen rendkívüli történik az embe
 
 Kolodko Art – Hivatalos művészeti oldal és háttérinformációk (kolodko.hu)
 
+Nevezetessegek
+
+Linkek: 
+-https://hu.wikipedia.org/wiki/Orsz%C3%A1gh%C3%A1z
+-https://www.parlament.hu/web/orszaghaz
+-https://hu.wikipedia.org/wiki/Kossuth_Lajos-eml%C3%A9km%C5%B1
+-https://hu.wikipedia.org/wiki/Szent_Istv%C3%A1n-bazilika_(Budapest)
+-https://www.tiktok.com/@11a.replay/video/7696177777736764694?is_from_webapp=1&sender_device=pc
+-https://hu.wikipedia.org/wiki/Magyar_%C3%81llami_Operah%C3%A1z
+-https://hu.wikipedia.org/wiki/Magyar_Nemzeti_M%C3%BAzeum
+-https://mnm.hu/
+-https://hu.wikipedia.org/wiki/Terror_H%C3%A1za_M%C3%BAzeum
+-https://www.terrorhaza.hu/hu/
+-https://hu.wikipedia.org/wiki/H%C5%91s%C3%B6k_tere
+-https://hu.wikipedia.org/wiki/Vajdahunyad_v%C3%A1ra
+-https://ligetbudapest.hu/vajdahunyadvar
+
 
 felhasznalt ai-ok:chatgpt,gemini
