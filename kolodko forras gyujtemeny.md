@@ -1,12 +1,20 @@
 Szobrok linkjei:
 https://www.ittjartam.hu/profil/ugor-images/kolodko-breki-miniszobra-8980-265x265.webp?utm_source=chatgpt.com
+
 https://commons.wikimedia.org/wiki/Special:Redirect/file/Lunar_Roving_Vehicle_von_Mih%C3%A1ly_Kolodko%2C_2023_Lip%C3%B3tv%C3%A1ros.jpg?utm_source=chatgpt.com
+
 https://commons.wikimedia.org/wiki/Special:Redirect/file/Doh%C3%A1nystrasse%2C_Taucher_%28Mih%C3%A1ly_Kolodko%29%2C_2023_Erzs%C3%A9betv%C3%A1ros.jpg?utm_source=chatgpt.com
+
 https://www.ittjartam.hu/profil/zigzag-images/kolodko-seress-rezso-szobra-73219-265x265.webp?utm_source=chatgpt.com
+
 https://commons.wikimedia.org/wiki/Special:Redirect/file/Ballonhund-Statue_von_Mih%C3%A1ly_Kolodko%2C_2023_Lip%C3%B3tv%C3%A1ros.jpg?utm_source=chatgpt.com
+
 https://commons.wikimedia.org/wiki/Special:Redirect/file/Halott_m%C3%B3kus_%28Kolodko_Mih%C3%A1ly%29%2C_Budapest.jpg?utm_source=chatgpt.com
+
 https://commons.wikimedia.org/wiki/Special:Redirect/file/Arche_Noah_Mini-Skulptur_von_Mih%C3%A1ly_Kolodko%2C_2023_Erzs%C3%A9betv%C3%A1ros.jpg?utm_source=chatgpt.com
+
 https://www.ittjartam.hu/profil/zigzag-images/kolodko-herzl-tivadar-miniszobor-73227-265x265.webp?utm_source=chatgpt.com
+
 
 
 Nevezetességek:
