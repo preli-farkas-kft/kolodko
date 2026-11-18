@@ -1,73 +1,25 @@
-1. Breki – Közvetlen képkeresési fotógaléria
+## Kolodko-miniszobrok
 
-2. Holdjáró – Kép megnyitása
+### Breki
+![Breki](kepek/breki.jpg)
 
-3. Búvár – Kép megnyitása
+### Holdjáró
+![Holdjáró](kepek/holdjaro.jpg)
 
-4. Seress Rezső – Kép megnyitása
+### Búvár
+![Búvár](kepek/buvar.jpg)
 
-5. Lufikutya csonttal – Kép megnyitása
+### Seress Rezső
+![Seress Rezső](kepek/seress-rezso.jpg)
 
-6. Halott mókus – Kép megnyitása
+### Lufikutya csonttal
+![Lufikutya](kepek/lufikutya.jpg)
 
-7. Noé bárkája – Kép megnyitása
+### Halott mókus
+![Halott mókus](kepek/halott-mokus.jpg)
 
-8. Herzl Tivadar – Kép megnyitása
+### Noé bárkája
+![Noé bárkája](kepek/noe-barkaja.jpg)
 
-- Breki – közvetlen, nagy felbontású fotó
-
-Holdjáróhoz egy másik, közvetlen fotó:
-
-- Holdjáró – 24.hu fotó
-
-
-
-Országház – Wikipédia
-
-
-
-Országház – Hivatalos weboldal
-
-
-
-Kossuth Lajos-emlékmű – Wikipédia
-
-
-
-Szent István-bazilika – Wikipédia
-
-
-
-TikTok – Videó
-
-
-
-Magyar Állami Operaház – Wikipédia
-
-
-
-Magyar Nemzeti Múzeum – Wikipédia
-
-
-
-Magyar Nemzeti Múzeum – Hivatalos weboldal
-
-
-
-Terror Háza Múzeum – Wikipédia
-
-
-
-Terror Háza Múzeum – Hivatalos weboldal
-
-
-
-Hősök tere – Wikipédia
-
-
-
-Vajdahunyad vára – Wikipédia
-
-
-
-Vajdahunyad vára – Liget Budapest
+### Herzl Tivadar
+![Herzl Tivadar](kepek/herzl-tivadar.jpg)
