@@ -1,0 +1,8 @@
+/* Fő oldal: a kép teljes magasságban látszik, nem vágja le a fejeket */
+.hero{position:relative;min-height:calc(100vh - 56px);display:flex;align-items:center;text-align:center;color:#fff;overflow:hidden;background:#111}
+.hero::before{content:"";position:absolute;inset:0;background:url(kepek/hero.jpg) center/cover;filter:blur(18px);transform:scale(1.1)}
+.hero::after{content:"";position:absolute;inset:0;background:url(kepek/hero.jpg) center top/auto 100% no-repeat;opacity:.9}
+.hero .container{position:relative;z-index:2;text-shadow:0 2px 8px #000;background:rgba(0,0,0,.35);padding:2rem;border-radius:1rem}
+.card img{height:360px;object-fit:cover}
+.gal img{width:100%;height:280px;object-fit:cover}
+iframe{border:0;width:100%;height:100%}

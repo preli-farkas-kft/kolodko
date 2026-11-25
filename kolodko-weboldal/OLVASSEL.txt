@@ -1,0 +1,15 @@
+Kolodko miniszobrok - iskolai weboldal
+
+Megnyitas:
+1. Csomagold ki a ZIP-et (jobb klikk -> Az osszes kibontasa). Ne a ZIP-bol nyisd meg!
+2. Dupla kattintas az index.html-re -> megnyilik a bongeszoben.
+
+Visual Studio Code-bol:
+1. Fajl -> Mappa megnyitasa -> valaszd ki a kolodko-weboldal mappat.
+2. Jobb klikk az index.html-re -> "Open with Live Server" (ha telepitve van a Live Server bovitmeny),
+   vagy jobb klikk -> "Reveal in File Explorer" es dupla kattintas az index.html-re.
+
+Fontos: a mappaban egyutt kell maradnia az osszes fajlnak (html, style.css, kepek mappa).
+A Bootstrap es a terkep az internetrol toltodik, ezert bemutatas elott legyen net.
+
+Oldalak: index.html (Fo oldal), szobrok.html, utvonal.html, kolodko.html, galeria.html
